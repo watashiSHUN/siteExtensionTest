@@ -3,7 +3,7 @@
   <metadata>
     <id>siteextenionnoxdttest</id>
     <title>test new kudu on siteextension without xdt</title>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <authors>watashiSHUN</authors>
     <licenseUrl>http://opensource.org/licenses/Apache-2.0</licenseUrl>
     <projectUrl>https://github.com/watashiSHUN/siteExtensionTest</projectUrl>
