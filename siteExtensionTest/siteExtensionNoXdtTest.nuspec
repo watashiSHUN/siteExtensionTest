@@ -6,10 +6,9 @@
     <version>1.0.0</version>
     <authors>watashiSHUN</authors>
     <licenseUrl>http://opensource.org/licenses/Apache-2.0</licenseUrl>
-    <projectUrl>https://github.com/projectkudu/FileCounterMVC</projectUrl>
+    <projectUrl>https://github.com/watashiSHUN/siteExtensionTest</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>A sample mvc Site Extension that display the default view</description>
-    <iconUrl>https://raw.githubusercontent.com/projectkudu/FileCounterMVC/master/FileCounter50x50.png</iconUrl>
     <tags>test siteextension</tags>
   </metadata>
   <files>
