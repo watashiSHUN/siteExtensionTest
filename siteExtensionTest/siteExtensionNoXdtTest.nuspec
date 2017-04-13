@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>siteextenionnoxdttest</id>
+    <title>test new kudu on siteextension without xdt</title>
+    <version>1.0.0</version>
+    <authors>watashiSHUN</authors>
+    <licenseUrl>http://opensource.org/licenses/Apache-2.0</licenseUrl>
+    <projectUrl>https://github.com/projectkudu/FileCounterMVC</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A sample mvc Site Extension that display the default view</description>
+    <iconUrl>https://raw.githubusercontent.com/projectkudu/FileCounterMVC/master/FileCounter50x50.png</iconUrl>
+    <tags>test siteextension</tags>
+  </metadata>
+  <files>
+    <file src="**\*.*" target="content" />
+  </files>
+</package>
