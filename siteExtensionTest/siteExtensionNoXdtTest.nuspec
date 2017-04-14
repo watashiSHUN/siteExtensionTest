@@ -3,10 +3,10 @@
   <metadata>
     <id>siteextenionnoxdttest</id>
     <title>test new kudu on siteextension without xdt</title>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <authors>watashiSHUN</authors>
     <licenseUrl>http://opensource.org/licenses/Apache-2.0</licenseUrl>
-    <projectUrl>https://github.com/watashiSHUN/siteExtensionTest</projectUrl>
+    <projectUrl>https://github.com/watashiSHUN/siteExtensionTest/tree/webrootwithscmxdt</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>A sample mvc Site Extension that display the default view</description>
     <tags>test siteextension</tags>
